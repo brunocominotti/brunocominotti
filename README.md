@@ -5,6 +5,7 @@
 - 💻 Atualmente trabalhando com Automação de Teste
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
+<br>
 
 <div>
   <a href="https://github.com/brunocominotti">
