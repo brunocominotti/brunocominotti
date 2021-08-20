@@ -5,12 +5,13 @@
 - 💻 Atualmente trabalhando com Automação de Teste
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocominotti&border_color=ffffff&title_color=00BFFF&text_color=ffffff&show_icons=true&icon_color=00BFFF&theme=dracula)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&layout=compact&theme=dracula&text_color=ffffff&title_color=ffffff&border_color=ffffff)](https://github.com/brunocominotti/github-readme-stats)
-
+<div>
+  <a href="https://github.com/brunocominotti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocominotti&border_color=ffffff&title_color=00BFFF&text_color=ffffff&show_icons=true&icon_color=00BFFF&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&title_color=ffffff&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 
 <div style="display: inline_block"><br>
   
