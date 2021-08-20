@@ -11,7 +11,7 @@
   <a href="https://github.com/brunocominotti">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=brunocominotti&border_color=ffffff&title_color=00BFFF&text_color=ffffff&show_icons=true&icon_color=00BFFF&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&title_color=ffffff&&langs_count=8&langs_count=7&theme=dracula"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&title_color=00BFFF&&langs_count=8&langs_count=7&theme=dracula"/>
 </div>
   
   
