@@ -1,4 +1,4 @@
-## Olá, Eu sou o Bruno Cominotti 👨‍💻
+## Olá 👋, Eu sou o Bruno Cominotti 👨‍💻
 
 
 - 😀 Tenho 22 anos
