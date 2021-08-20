@@ -1,7 +1,7 @@
-## Olá, Eu sou o Bruno Cominotti
+## Olá, Eu sou o Bruno Cominotti 👨‍💻
 
 
-- 😃 Tenho 22 anos
+- 😀 Tenho 22 anos
 - 💻 Atualmente trabalhando com Automação de Teste
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
