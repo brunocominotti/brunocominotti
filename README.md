@@ -22,6 +22,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Bruno-Connecting" src="https://5efce21e120dc77e32455754.static-01.com/l/images/dc858e087ed3ae7beaa45f34ee36e98caaba5f31.gif">
   
   
 </div>
