@@ -5,7 +5,7 @@
 - 💻 Atualmente trabalhando com Automação de Teste
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
-##
+
 <div>
   <a href="https://github.com/brunocominotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocominotti&border_color=ffffff&title_color=00BFFF&text_color=ffffff&show_icons=true&icon_color=00BFFF&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
 </div>
   
   
-
+##
 <div style="display: inline_block"><br>
   
    <img align="center" alt="Bruno-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
