@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div>
     <br>
-     <img align="right" height="130" width="100" alt="Bruno-Loading" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">  
+     <img align="right" height="130" width="125" alt="Bruno-Loading" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">  
   </div>
   
   
