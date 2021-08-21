@@ -14,8 +14,8 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&title_color=00BFFF&&langs_count=8&langs_count=7&theme=dracula"/>
 </div>
   
-  
-##
+<br>  
+
 <div style="display: inline_block"><br>
   
    <img align="center" alt="Bruno-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
