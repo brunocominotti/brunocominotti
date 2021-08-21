@@ -14,7 +14,7 @@
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocominotti&title_color=00BFFF&&langs_count=8&langs_count=7&theme=dracula"/>
 </div>
   
-<br><br>
+<br>
 
 <div style="display: inline_block"><br>
   
