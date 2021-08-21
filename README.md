@@ -22,22 +22,23 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Bruno-Loading" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">  
+  <a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div>
+    <br>
+     <img align="center" height="130" width="100" alt="Bruno-Loading" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">  
+  </div>
   
   
 </div>
   
 ##
-
-<div>
-  
-<a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  
-  </div>
+   
   
   ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+ 
 
 
 
