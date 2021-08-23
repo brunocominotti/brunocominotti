@@ -29,19 +29,14 @@
   
 </div>
   
-  <div>
-      <a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
   
 ##
-   
+   <div>
+      <a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
   ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
   
-  <div>
-    <br>
-      <a href="https://www.linkedin.com/in/bruno-cominotti-3730931a4/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
   
   
   
