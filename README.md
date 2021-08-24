@@ -37,6 +37,11 @@
   
   ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
   
+  ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/brunocominotti/count.svg" />
+ </p>
+  
   
   
   
