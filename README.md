@@ -26,7 +26,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Bruno-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="right" height="130" width="125" alt="Bruno-Loading" src="https://c.tenor.com/ympcCN_fln8AAAAM/baby-yoda-the-mandalorian.gif">  
+  
   
   <br>
  
