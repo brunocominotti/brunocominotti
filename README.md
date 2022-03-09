@@ -1,7 +1,7 @@
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  <h3>Eu sou o Bruno Cominotti!</h3>
 
 
-- 😀 Tenho 22 anos
+- 😀 Tenho 23 anos
 - 💻 Atualmente trabalhando com Automação de Teste
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
@@ -41,11 +41,7 @@
   
   ![Snake animation](https://github.com/brunocominotti/brunocominotti/blob/output/github-contribution-grid-snake.svg)
   
-  ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/brunocominotti/count.svg" />
- </p>
-  
+
   
   
   
