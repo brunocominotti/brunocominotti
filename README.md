@@ -2,7 +2,7 @@
 
 
 - 😀 Tenho 24 anos
-- 💻 Atualmente trabalhando com Automação de Teste
+- 💻 Automação de Teste
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas
 
 
