@@ -1,8 +1,7 @@
 
 
 
-- 😀 Tenho 26 anos
-- 💻 Automação de Teste
+- 💻 Analista de Teste
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas
 
 
