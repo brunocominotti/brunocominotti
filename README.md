@@ -1,7 +1,7 @@
 ## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  <h3>Eu sou o Bruno Cominotti!</h3>
 
 
-- 😀 Tenho 24 anos
+- 😀 Tenho 26 anos
 - 💻 Automação de Teste
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas
 
